@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\Yla\Documents\GitHub\SPbCT_IvanovaJA\LR09_10_IvanovaJA\Lab9_10_Orlov_Ivanova_2\MyForm.h(31,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab9_10_Orlov_Ivanova_2.vcxproj -> C:\Users\Yla\Documents\GitHub\SPbCT_IvanovaJA\LR09_10_IvanovaJA\x64\Debug\Lab9_10_Orlov_Ivanova_2.exe
