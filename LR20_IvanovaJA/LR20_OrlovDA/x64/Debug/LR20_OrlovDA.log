@@ -1,0 +1,2 @@
+﻿  LR20_OrlovDA.cpp
+LINK : fatal error LNK1104: не удается открыть файл "MathFuncs.lib"

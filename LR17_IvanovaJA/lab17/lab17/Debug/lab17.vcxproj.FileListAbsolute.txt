@@ -1,0 +1,6 @@
+C:\Users\Андрей\GitHub\SPbCT_GanushkinAP_LyagicevaKA\лабораторная 17\lab17\lab17\Debug\lab17.vcxprojAssemblyReference.cache
+C:\Users\Андрей\GitHub\SPbCT_GanushkinAP_LyagicevaKA\лабораторная 17\lab17\lab17\Debug\lab17.exe
+C:\Users\Андрей\GitHub\SPbCT_GanushkinAP_LyagicevaKA\лабораторная 17\lab17\lab17\Debug\lab17.pdb
+C:\Users\Yla\Desktop\SPbCT_OrlovDA-master\LR17_OrlovDA\lab17\lab17\Debug\lab17.vcxprojAssemblyReference.cache
+C:\Users\Yla\Desktop\SPbCT_OrlovDA-master\LR17_OrlovDA\lab17\lab17\Debug\lab17.exe
+C:\Users\Yla\Desktop\SPbCT_OrlovDA-master\LR17_OrlovDA\lab17\lab17\Debug\lab17.pdb
